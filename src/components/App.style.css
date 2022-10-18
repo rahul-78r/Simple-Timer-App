@@ -1,0 +1,20 @@
+.Heading{
+  color: cornflowerblue;
+}
+.Btn{
+  padding: 10px 20px;
+  margin:10px;
+  color: #fff;
+  background-color: hotpink;
+  font-weight: bold;
+  border:none;
+  border-radius: 3px;
+  font-size:18px;
+  transition: 0.5s;
+}
+.Btn:hover{
+  background-color: cornflowerblue;
+}
+span{
+  font-size: 20px;
+}
